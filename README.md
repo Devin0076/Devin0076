@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm Devin 👋
 
-<!--
-**Devin0076/Devin0076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student focused on building backend APIs and interactive web applications. I enjoy structuring data, designing clean endpoints, and building projects that solve real problems.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- JavaScript
+- Node.js
+- Express
+- HTML & CSS
+- REST APIs
+- JSON
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🎮 Dark Pit / Pit Matchup Guide API
+A backend API built to help Super Smash Bros Ultimate players understand character matchups. Stores structured matchup data in JSON files and serves it through REST endpoints.
+
+- Tech: Node.js, Express, JSON
+  
+
+---
+
+### 🎓 Campus Life Super App
+A multi-page web application designed to help students navigate campus life, including events, dining options, and a campus map.
+
+- Tech: HTML, CSS, JavaScript
+- Live Demo: https://devin0076.github.io/Campus-Life-Super-App/
+
+## 📫 Contact
+- GitHub: https://github.com/Devin0076

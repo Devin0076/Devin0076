@@ -28,6 +28,8 @@ A multi-page web application designed to help students navigate campus life, inc
 - Tech: HTML, CSS, JavaScript
 - Live Demo: https://devin0076.github.io/Campus-Life-Super-App/
 
+---
+
 ### BudgetTrack – Full-Stack Budgeting Application
 
 BudgetTrack is a full-stack budgeting application that allows users to securely track income and expenses. The project was developed as part of a complete Software Development Life Cycle (SDLC) workflow, including requirements planning, backend architecture, automated testing, and continuous integration.

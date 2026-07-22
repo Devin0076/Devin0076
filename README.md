@@ -1,6 +1,6 @@
 # Hey, I'm Devin 👋
 
-I'm a computer science student focused on building backend APIs and interactive web applications. I enjoy structuring data, designing clean endpoints, and building projects that solve real problems.
+I'm a computer science graduate focused on building backend APIs and interactive web applications. I enjoy structuring data, designing clean endpoints, and building projects that solve real problems.
 
 ## 🛠️ Technologies & Tools
 - JavaScript
